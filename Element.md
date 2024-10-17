@@ -3,11 +3,11 @@
 3. Element的常见组件
 
 
-# Element的概念
+# 1.Element的概念
 **Element是饿了么团队研发的,一套为开发者,设计师和产品经理准备的基于Vue2.0的桌面端组件库组件:组成网页的部件,例如:超链接,按钮,图片,表格,表单,分页条等等**
 官网:`https://element.eleme.cn/#/zh-CNListener`
 
-# Element入门
+# 2.Element入门
 1) 安装ElementUI组件库（在当前工程的目录下），在命令行执行指令：
 ```
 npm install element-ui@2.15.3
@@ -24,15 +24,15 @@ npm install element-ui@2.15.3
 ![[Pasted image 20240819174955.png]]
 
 
-# Element中的常见组件
+# 3.Element中的常见组件
 
-## 常见组件-Table表格
+## 3.1常见组件-Table表格
 **Table表格:用于展示多条结构类似的数据,可对数据进行排序,筛选,比对或其他自定义操作**
 ![[Pasted image 20240819180008.png]]
 ![[Pasted image 20240819180246.png]]
 ![[Pasted image 20240819180505.png]]
 
-## 常见组件-分页
+## 3.2常见组件-分页
 **Pagination分页：当数据量过多时，使用分页分解数据。**
 ![[Pasted image 20240819181241.png]]
 
@@ -48,7 +48,7 @@ npm install element-ui@2.15.3
 **事件加上后效果**
 ![[recording.gif]]
 
-## 常见组件-对话框
+## 3.3常见组件-对话框
 **Dialog对话框：在保留当前页面状态的情况下，告知用户并承载相关操作。**
 ![[Pasted image 20240819184223.png]]
 
@@ -59,7 +59,7 @@ npm install element-ui@2.15.3
 **控制对话框的显示或者隐藏**
 ![[Pasted image 20240819185309.png]]
 
-## 常见组件-表单
+## 3.4常见组件-表单
 **Form表单：由输入框、选择器、单选框、多选框等控件组成，用以收集、校验、提交数据。**
 ![[Pasted image 20240819191113.png]]
 ![[Pasted image 20240819191244.png]]
